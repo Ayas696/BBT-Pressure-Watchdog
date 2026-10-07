@@ -1,4 +1,4 @@
-```python
+
 import streamlit as st
 import random
 import time
@@ -1066,5 +1066,5 @@ if simulation:
     time.sleep(1)
 
     st.rerun()
-```
+
 
